@@ -1727,7 +1727,7 @@ footer {
             .hero-text {
                 width: 100%;
                 height: auto;
-                margin-top: -60%;
+                margin-top: -40%;
 
                 h1{
                     padding-left: 25%;
@@ -1742,7 +1742,7 @@ footer {
                 }
 
                 .hero-social {
-                    padding-top: 20%;
+                    padding-top: 40%;
                 }
 
                 .hero-social svg {
@@ -2194,3 +2194,4 @@ footer {
         }
     }
 }
+
