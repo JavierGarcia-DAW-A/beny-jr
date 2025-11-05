@@ -1727,7 +1727,7 @@ footer {
             .hero-text {
                 width: 100%;
                 height: auto;
-                margin-top: -40%;
+                margin-top: -80%;
 
                 h1{
                     padding-left: 25%;
@@ -2194,4 +2194,5 @@ footer {
         }
     }
 }
+
 
