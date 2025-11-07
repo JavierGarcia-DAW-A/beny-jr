@@ -1760,7 +1760,7 @@ footer {
 
                 svg {
                     left: 5%;
-                    top: 70%;
+                    top: 10%;
                     width: 45px;
                     height: 45px;
                 }
@@ -2199,4 +2199,5 @@ footer {
         }
     }
 }
+
 
